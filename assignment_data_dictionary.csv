@@ -1,0 +1,50 @@
+Data Field,Description
+UID,Unique customer ID
+CUSTOMER_PROFILE_CODE,Profile of customers 
+Good_Bad,Customer turned Bad or Good
+LOCATIONNAME,Location name
+VEHICLEMODEL,Vehicle Model
+ASSETCOST,Asset cost
+LOANAMOUNT,Loan Amount
+EMI,EMI
+TENURE,Tenure
+ADDRESSCONFIRMED,Address confirmed
+DESIGNATION,Applicant Designation
+RESIDENCETYPE,Residence type
+NOOFYEARSINSAMECITY,No. of years in same city
+RESIDENCESTABILITY,Residence stability
+RESIDENCELOCALITY,Residence locality
+BUSINESSCATEGORY,Business category
+BUSINESSMARGINGROSS,Business margin gross
+INCOMEEMPLOYMENT,Income employment
+STABILITYINBUSINESS,Stability in business
+STABILITYCONFIRMED,Stability confirmed
+STABILTIYCONFIRMEDTHRU,Who confirmed the stability
+ISFAMILYINVOLVED,Is family involved
+OFFICETYPE,Office type
+MONTHLYTURNOVER,Monthly turn over
+STOCKVALUEINHAND,Stock value in hand
+BUSINESSMARGINNET,Business margin net
+NOOFEMPLOYEES,No. of employees
+NAMEBOARDSEEN,Name board seen
+OFFICELOCALITY,Locality of customer office
+ISRESIDENCECOMEOFFICE,Is residence cum office?
+ENDUSEOFLOAN,End use of loan
+ENDUSEOFASSET,End use of Asset
+ASSETLOCATION,Asset location
+NEIGHBOURREF,Neighbour reference
+POLITICALLINK,Political link
+PROFESSIONTYPE,Profession type
+CURRENTBUSINESSSTABILITY,Current business stability
+APPLICANTDESIGNATION,Applicant designation
+ASSETREGMONTH,Asset registration month
+ASSETREGYEAR,Asset registration year
+LANDOWNERSHIP,Land ownership
+IRRIGATIONSOURCE,Irrigation source
+CROPSCULTIVATED,Crops cultivated
+DISTFROMSCELOCATION,Distance from SCE location
+DISTFROMDEALERLOCATION,Distance from Dealer location
+IMGCONFIRM,Image confirm
+TOTALEXPENSEPERMONTH,Total expenses per month
+NETINCOMEPERMONTH,Netincome per month
+FOIR,Fixed income obligation & expenses ratio
